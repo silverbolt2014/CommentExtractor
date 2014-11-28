@@ -1,1 +1,1 @@
-The beginnings beginnings of a program to extract comments in a fdf file.
+The beginnings of a program to extract comments in a fdf file.
